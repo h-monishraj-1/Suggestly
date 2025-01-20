@@ -24,4 +24,4 @@ __pycache__/
 *.pyd
 *.pyo
 *.pyd
-*.ipynb_checkpoints/
+*.ipynb_checkpoints
